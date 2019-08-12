@@ -1,0 +1,29 @@
+{
+  "name": "projeto01",
+  "version": "1.0.0",
+  "description": "Apenas para começar a iniciação com bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clayton3660/Bootstrap4.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "css",
+    "html",
+    "seu_projeto"
+  ],
+  "author": "clayton p silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clayton3660/Bootstrap4/issues"
+  },
+  "homepage": "https://github.com/clayton3660/Bootstrap4#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
